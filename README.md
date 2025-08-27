@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23A769&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 ## Implementação do Algoritmo de Karatsuba em Python
 
 Este repositório contém a implementação do algoritmo de Karatsuba para multiplicação eficiente de inteiros grandes. O método reduz o número de multiplicações necessárias ao dividir os operandos em partes e combinar resultados recursivamente, alcançando complexidade subquadrática em relação à multiplicação escolar.
@@ -74,3 +76,5 @@ Este repositório contém a implementação do algoritmo de Karatsuba para multi
 
 - Complexidade espacial:
   - `O(n)`, devido à profundidade da recursão e estruturas intermediárias proporcionais ao tamanho dos operandos.
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23A769&height=120&section=footer"/>

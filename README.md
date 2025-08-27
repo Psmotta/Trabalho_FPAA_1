@@ -24,8 +24,8 @@ Este repositório contém a implementação do algoritmo de Karatsuba para multi
 - Passos:
   1. Clonar o repositório e entrar na pasta do trabalho:
      ```bash
-     git clone <url-do-seu-repositorio>
-     cd "Trabalho 1"
+     git clone https://github.com/Psmotta/Trabalho_FPAA_1.git
+     cd "Trabalho_FPAA_1"
      ```
   2. Executar o programa:
      ```bash

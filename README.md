@@ -1,6 +1,6 @@
 ## Implementação do Algoritmo de Karatsuba em Python
 
-Este repositório contém uma implementação em Python do algoritmo de Karatsuba para multiplicação eficiente de inteiros grandes. O método reduz o número de multiplicações necessárias ao dividir os operandos em partes e combinar resultados recursivamente, alcançando complexidade subquadrática em relação à multiplicação escolar.
+Este repositório contém a implementação do algoritmo de Karatsuba para multiplicação eficiente de inteiros grandes. O método reduz o número de multiplicações necessárias ao dividir os operandos em partes e combinar resultados recursivamente, alcançando complexidade subquadrática em relação à multiplicação escolar.
 
 ### Lógica da implementação (linha a linha de `main.py`)
 
